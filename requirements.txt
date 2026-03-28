@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pytesseract
+opencv-python
+pdf2image
+python-multipart
+pillow
+numpy
+python-docx
+pdfplumber
+transformers
+torch
+pandas
+scikit-learn

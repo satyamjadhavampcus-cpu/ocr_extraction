@@ -1,0 +1,54 @@
+--- uploads/v2-dde5c221d3e837b6792c3f2beb9d07c8_r.jpg
+org=Jiangsu Skytech Industrial Internet Co
+cert=MWBE2025110332000025190
+issued=None
+expiry=None
+naics=[]
+--- uploads/Certified-Supplier-Certificate-Certified-Supplier-Certificate-1024x724.jpg
+org=Goal Indigenous Services
+cert=19611858925
+issued=None
+expiry=None
+naics=[]
+--- uploads/MSDUK-Certification.jpg
+org=INDOTRONIX AVANI UK, LTD
+cert=None
+issued=12/06/2026
+expiry=12/06/2026
+naics=[]
+--- uploads/R.png
+org=CERTIFIED WOMEN’S BUSINESS ENTERPRISE
+cert=$25927521
+issued=None
+expiry=None
+naics=[]
+--- uploads/5d07e6e6fd6f2211626b1294_Flroida-DBE.jpg
+org=Disadvantaged Business Enterprise
+cert=541430
+issued=None
+expiry=None
+naics=['541430']
+--- uploads/NVBDC-cert.png
+org=Roberts & Ryan Investments, Inc
+cert=23120
+issued=12/01/2020
+expiry=12/01/2021
+naics=['523110', '523930', '522320', '523999']
+--- uploads/Ampcus WBENC Certificate-Expires 102825.pdf
+org=Ampcus Incorporated
+cert=2005114146
+issued=10/28/2009
+expiry=10/28/2025
+naics=['541511', '518210', '541512', '541519', '541715', '611430']
+--- uploads/Ampcus NMSDC Certificate-Expire 10312025.pdf
+org=AMPCUS Incorporated
+cert=CR09638
+issued=10/07/2024
+expiry=10/31/2025
+naics=['541511', '541512', '541519', '541513', '561499', '518210', '561210', '541714', '541715']
+--- uploads/Bravens Inc. Certificate.pdf
+org=Bravens Inc
+cert=CR30939
+issued=11/06/2024
+expiry=10/31/2025
+naics=['541511', '541512', '541519', '541611']
